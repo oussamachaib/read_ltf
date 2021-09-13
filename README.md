@@ -1,4 +1,4 @@
-# combtool
+# comb_im
 An OpenCV based algorithm for processing OH chemiluminescence images acquired using Lightfield
 
 Basic features: Reading and averaging (.spe) partitions, Flame edge detection (Otsu thresholding), Abel inversion.
